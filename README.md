@@ -1,7 +1,7 @@
 
-# `<p align="center">`Windows 10/11 模块化 `</p>`
+# <p align="center">Windows 10/11 模块化</p>
 
-<p align="center"> | <a href="https://github.com/stermso/Windows-Modular/blob/main/README.md">中文</a> | <a href="https://github.com/stermso/Windows-Modular/tree/main/Docs%C2%A0%20%E6%96%87%E6%A1%A3%20/README-EN.md">English</a> | </p>
+<p align="center"> | <a href="https://github.com/stermso/Windows-Modular/blob/main/README.md">中文</a> | <a href="https://github.com/stermso/Windows-Modular/tree/main/Docs/README-EN.md">English</a> | </p>
 
 <p align="center"><a href="https://raw.githubusercontent.com/stermso/Windows-Modular/main/Static/WechatPerson.jpg"><img src="./Static/Wechat.svg"></a></p>
 

@@ -1,8 +1,9 @@
-# `<p align="center">`Windows 10/11 Modular `</p>`
 
-<p align="center">|[中文](https://github.com/stermso/Windows-Modular/blob/main/README.md)|[English](https://github.com/stermso/Windows-Modular/tree/main/Docs/README-EN.md)|</p>
+# <p align="center">Windows 10/11 Modular</p>
 
-`<a href=""><p align="center"><img src="./Static/Wechat.svg"></p></a>`
+<p align="center"> | <a href="https://github.com/stermso/Windows-Modular/blob/main/README.md">中文</a> | <a href="https://github.com/stermso/Windows-Modular/blob/main/Docs/README-EN.md">English</a> | </p>
+
+<p align="center"><a href="https://raw.githubusercontent.com/stermso/Windows-Modular/main/Static/WechatPerson.jpg"><img src="../Static/Wechat.svg"></a></p>
 
 ### Effect : The system disk capacity of Windows is frozen , not affect system updates
 
