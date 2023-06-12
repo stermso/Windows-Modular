@@ -2,7 +2,6 @@
 
 <p align="center"> | <a href="https://github.com/stermso/Windows-Modular/blob/main/README.md">中文</a> | <a href="https://github.com/stermso/Windows-Modular/tree/main/Docs/README-EN.md">English</a> | </p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/stermso/Windows-Modular/main/Static/WechatPerson.jpg"><img src="./Static/Wechat.svg"></a></p>
 
 ### 效果：Windows系统盘容量固定，不受软件安装影响
 
